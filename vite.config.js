@@ -11,5 +11,5 @@ import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Juego_Pokemon/', // Reemplaza con el nombre de tu repositorio
+  base: 'https://claucelis.github.io/Juego_Pokemon/', // Reemplaza con el nombre de tu repositorio
 });
